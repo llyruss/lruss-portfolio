@@ -1,0 +1,53 @@
+main {
+    display: flex ;
+    flex-direction: column ;
+    justify-content: space-around ;
+    align-items: center ;
+}
+
+#featuredProjects {
+    display: flex ;
+    justify-content: space-around;
+    width: 100% ;
+}
+
+#featuredProjects p {
+    background-color: rgb(236, 223, 33) ;
+    border: solid ;
+    padding: 50px ;
+    
+}
+
+.portfolioP {
+    margin: 0px ;
+}
+
+
+#addedSoon {
+    margin-bottom: 50px ;
+}
+
+
+h2, h3 {
+    margin: 0px ;
+}
+
+
+#listedProjects {
+    margin-bottom: 50px ;
+    width: 100% ;
+    display: flex ;
+    justify-content: space-around ;
+}
+
+
+
+ul {
+    list-style: none ;
+}
+
+.styled li {
+    list-style-type: "🧶  ";
+    margin-top: 50px ;
+    margin-bottom: 50px ;
+}
