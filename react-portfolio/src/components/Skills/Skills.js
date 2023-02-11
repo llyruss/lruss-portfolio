@@ -7,7 +7,6 @@ function Skills() {
     <section className="skillsSection" id="displayIcons">
     <div id="codingLangs">
       <i class="far fa-file-excel fa-3x"></i>
-      <i class="fas fa-database fa-3x"></i>
       <i class="fab fa-js-square fa-3x"></i>
       <i class="fab fa-react fa-3x"></i>
       <i class="fab fa-node-js fa-3x"></i>
