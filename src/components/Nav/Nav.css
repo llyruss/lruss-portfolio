@@ -1,9 +1,9 @@
 header {
-    background-color: white;
+    background-color: rgb(221, 163, 238);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90px;
+    height: 75px;
 }
 
 
@@ -20,9 +20,12 @@ header ul {
 
   nav ul li a {
     text-decoration: none;
+    padding: 10px;
+    font-weight: bolder;
   }
   
   nav ul li a:hover {
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    background-color: lightpink;
   
   }
