@@ -45,7 +45,7 @@ function Portfolio() {
     <li>
       <div>
         <h3>SuperSearch</h3>
-        <p className="portfolioP">A search engine for your favorite superheroes and villains - find their most recent media appearances. </p>
+        <p className="portfolioP">A search engine for your favorite superheroes and villains- <br/> find their most recent media appearances. </p>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/SuperSearch">Project Repository</a></td>

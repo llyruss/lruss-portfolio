@@ -9,7 +9,7 @@ function Banner() {
         </div>
 
         <div id="banner2"> 
-        <h2>i like pretty things and the word fuck</h2>
+        <h2>dedicated to the last stitch</h2>
         </div>
     </div>
   );
