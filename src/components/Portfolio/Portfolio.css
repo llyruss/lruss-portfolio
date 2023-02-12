@@ -51,3 +51,11 @@ ul {
     margin-top: 50px ;
     margin-bottom: 50px ;
 }
+
+.projectPic {
+    width: 500px;
+}
+
+.projectDiv {
+    height: 400px;
+}

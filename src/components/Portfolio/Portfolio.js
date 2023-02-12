@@ -1,5 +1,12 @@
 import React from "react";
 import "./Portfolio.css"
+import Cookin from '../../images/whats-cookin.png'
+import Weather from '../../images/weather.png'
+import Super from '../../images/supersearch.png'
+import Password from '../../images/password-generator.png'
+import Quiz from '../../images/code-quiz.png'
+import Blog from '../../images/tech-blog.png'
+
 
 function Portfolio() {
   return (
@@ -13,9 +20,10 @@ function Portfolio() {
   <ul class="styled">
 
     <li>
-      <div>
+      <div className = "projectDiv">
         <h3>What's Cookin?</h3>
         <p className="portfolioP">A blog for sharing recipes among friends.</p>
+        <img className= "projectPic" src = {Cookin}></img>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/What-s-Cookin">Project Repository</a></td>
@@ -28,9 +36,10 @@ function Portfolio() {
     </li>
 
     <li>
-      <div>
+    <div className = "projectDiv">
         <h3>Weather Dashboard</h3>
         <p className="portfolioP">Search for weather conditions in any major city</p>
+        <img className= "projectPic" src = {Weather}></img>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/Weather-Dashboard/">Project Repository</a></td>
@@ -43,9 +52,10 @@ function Portfolio() {
     </li>
 
     <li>
-      <div>
+    <div className = "projectDiv">
         <h3>SuperSearch</h3>
         <p className="portfolioP">A search engine for your favorite superheroes and villains- <br/> find their most recent media appearances. </p>
+        <img className= "projectPic" src = {Super}></img>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/SuperSearch">Project Repository</a></td>
@@ -63,9 +73,10 @@ function Portfolio() {
   <ul class="styled">
 
   <li>
-      <div>
+  <div className = "projectDiv">
         <h3>Random Password Generator</h3>
         <p className="portfolioP">Generate a secure and random password with user specified criteria.</p>
+        <img className= "projectPic" src = {Password}></img>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/react-portfolio/">Project Repository</a></td>
@@ -78,9 +89,10 @@ function Portfolio() {
     </li>
 
    <li>
-      <div>
+   <div className = "projectDiv">
         <h3>Code Quiz</h3>
         <p className="portfolioP">A timed multiple choice quiz utilizing local storage.</p>
+        <img className= "projectPic" src = {Quiz}></img>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/Code-Quiz/">Project Repository</a></td>
@@ -94,9 +106,10 @@ function Portfolio() {
 
 
     <li>
-      <div>
+    <div className = "projectDiv">
         <h3>Tech Blog</h3>
         <p className="portfolioP">The tech blog is a full-stack application utilizing node, <br></br> express, sequelize, and handlebars</p>
+        <img className= "projectPic" src = {Blog}></img>
         <table>
           <tr>
             <td><a href="https://github.com/llyruss/Tech-Blog/">Project Repository</a></td>
