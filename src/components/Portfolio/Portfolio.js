@@ -54,7 +54,7 @@ function Portfolio() {
     <li>
     <div className = "projectDiv">
         <h3>SuperSearch</h3>
-        <p className="portfolioP">A search engine for your favorite superheroes and villains- <br/> find their most recent media appearances. </p>
+        <p className="portfolioP">A search engine for your favorite superheroes and villains- find their most recent media appearances. </p>
         <img className= "projectPic" src = {Super}></img>
         <table>
           <tr>
