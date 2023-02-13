@@ -16,6 +16,7 @@ header ul {
 
   header ul li {
     margin: 20px ;
+    color: indigo;
   }
 
   nav ul li a {

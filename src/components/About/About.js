@@ -1,6 +1,7 @@
 import React from "react";
 import './About.css'
 import Me from '../../images/lily.jpeg'
+
 function About() {
   return (
     <>

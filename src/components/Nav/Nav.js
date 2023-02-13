@@ -7,10 +7,11 @@ function Nav() {
     <header>
         <nav>
             <ul>
-                <li><NavLink to="/about">About</NavLink></li>
+                <li><NavLink to="/">About</NavLink></li>
                 <li><NavLink to="/skills">Skills</NavLink></li>
                 <li><NavLink to="/portfolio">Portfolio</NavLink></li>
                 <li><a href="#" target="_blank" rel="noreferrer">Resume</a></li>
+                <li><NavLink to="/contact">Contact Me</NavLink></li>
             </ul>
         </nav>
     </header>
