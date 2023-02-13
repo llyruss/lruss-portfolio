@@ -23,6 +23,7 @@ header ul {
     text-decoration: none;
     padding: 10px;
     font-weight: bolder;
+    color: indigo;
   }
   
   nav ul li a:hover {
@@ -30,3 +31,4 @@ header ul {
     background-color: lightpink;
   
   }
+
