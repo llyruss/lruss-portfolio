@@ -5,7 +5,7 @@ import Weather from '../../images/weather.png'
 import Super from '../../images/supersearch.png'
 import Password from '../../images/password-generator.png'
 import Quiz from '../../images/code-quiz.png'
-import Blog from '../../images/tech-blog.png'
+import BOTR from '../../images/boardoftherings'
 
 
 function Portfolio() {
@@ -107,15 +107,15 @@ function Portfolio() {
 
     <li>
     <div className = "projectDiv">
-        <h3>Tech Blog</h3>
-        <p className="portfolioP">The tech blog is a full-stack application utilizing node, <br></br> express, sequelize, and handlebars</p>
-        <img className= "projectPic" src = {Blog}></img>
+        <h3>Board of the Rings</h3>
+        <p className="portfolioP"> An online multiplayer trivia board game. It's the Unexpected Party Game you'll love! </p>
+        <img className= "projectPic" src = {BOTR}></img>
         <table>
           <tr>
-            <td><a href="https://github.com/llyruss/Tech-Blog/">Project Repository</a></td>
+            <td><a href="https://github.com/binderb/board-of-the-rings">Project Repository</a></td>
           </tr>
           <tr>
-            <td><a href="https://lilystechblog.herokuapp.com/">Deployed Project</a></td>
+            <td><a href="https://boardoftherings.herokuapp.com/">Deployed Project</a></td>
           </tr>
         </table> 
       </div>
