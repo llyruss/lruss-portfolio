@@ -5,7 +5,7 @@ import Weather from '../../images/weather.png'
 import Super from '../../images/supersearch.png'
 import Password from '../../images/password-generator.png'
 import Quiz from '../../images/code-quiz.png'
-import BOTR from '../../images/boardoftherings'
+import BOTR from '../../images/botr.png'
 
 
 function Portfolio() {
