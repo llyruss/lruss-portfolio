@@ -3,6 +3,11 @@
     flex-direction: column;
     justify-content: center ;
     align-items: center ;
+    color:rgb(186, 26, 111)
+}
+
+#skillsIntro {
+    color: indigo
 }
 
 
@@ -20,7 +25,7 @@ main {
 }
 
 #skillsH1 {
-    color: rgb(125, 58, 146) ;
+    color: indigo ;
 }
 
 #skillsDiv h3 {
@@ -36,6 +41,7 @@ h5 {
     display: flex ;
     flex-direction: column ;
     align-items: center;
+    padding-top: 30px;
 }
 
 #dataSkills {
@@ -43,6 +49,7 @@ h5 {
     display: flex ;
     flex-direction: column ;
     align-items: center;
+    padding-bottom: 35px;
 }
 
 #webSkills {
@@ -91,4 +98,34 @@ h3 {
     border-radius: 100% ;
     margin-left: 50px ;
     margin-right: 50px ;
+}
+
+#icon1 {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#icon2 {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#icon3 {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#icon4 {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#icon5 {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#icon6 {
+    padding-right: 8px;
+    padding-left: 8px;
 }
