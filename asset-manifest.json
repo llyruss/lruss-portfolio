@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lruss-portfolio/static/css/main.9df9dca4.css",
-    "main.js": "/lruss-portfolio/static/js/main.2216deee.js",
-    "static/media/lily.jpeg": "/lruss-portfolio/static/media/lily.98dfcba29c7b3f698af4.jpeg",
-    "static/media/supersearch.png": "/lruss-portfolio/static/media/supersearch.9c6ae2d55f6522777ac5.png",
-    "static/media/whats-cookin.png": "/lruss-portfolio/static/media/whats-cookin.072e46174aeeec92de2e.png",
-    "static/media/botr.png": "/lruss-portfolio/static/media/botr.602230a35bbe66049ea0.png",
-    "static/media/weather.png": "/lruss-portfolio/static/media/weather.97d0a05d95ad1fe425bd.png",
-    "static/media/code-quiz.png": "/lruss-portfolio/static/media/code-quiz.87a08a250210918d5e77.png",
-    "static/media/password-generator.png": "/lruss-portfolio/static/media/password-generator.d5d96e8510aef2c75326.png",
-    "static/media/yarn.jpeg": "/lruss-portfolio/static/media/yarn.7030f5ef2a3538f07796.jpeg",
-    "index.html": "/lruss-portfolio/index.html",
-    "main.9df9dca4.css.map": "/lruss-portfolio/static/css/main.9df9dca4.css.map",
-    "main.2216deee.js.map": "/lruss-portfolio/static/js/main.2216deee.js.map"
+    "main.css": "/react-portfolio/static/css/main.ce0c2c00.css",
+    "main.js": "/react-portfolio/static/js/main.58f048eb.js",
+    "static/media/lily.jpeg": "/react-portfolio/static/media/lily.98dfcba29c7b3f698af4.jpeg",
+    "static/media/supersearch.png": "/react-portfolio/static/media/supersearch.9c6ae2d55f6522777ac5.png",
+    "static/media/whats-cookin.png": "/react-portfolio/static/media/whats-cookin.072e46174aeeec92de2e.png",
+    "static/media/botr.png": "/react-portfolio/static/media/botr.602230a35bbe66049ea0.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.97d0a05d95ad1fe425bd.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.87a08a250210918d5e77.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.d5d96e8510aef2c75326.png",
+    "static/media/yarn.jpeg": "/react-portfolio/static/media/yarn.7030f5ef2a3538f07796.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.ce0c2c00.css.map": "/react-portfolio/static/css/main.ce0c2c00.css.map",
+    "main.58f048eb.js.map": "/react-portfolio/static/js/main.58f048eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.9df9dca4.css",
-    "static/js/main.2216deee.js"
+    "static/css/main.ce0c2c00.css",
+    "static/js/main.58f048eb.js"
   ]
 }
