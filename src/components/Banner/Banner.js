@@ -9,7 +9,7 @@ function Banner() {
         </div>
 
         <div id="banner2"> 
-        <h2>dedicated to the last stitch</h2>
+        <h2>dedicated to the last stitch and the last commit</h2>
         </div>
     </div>
   );
