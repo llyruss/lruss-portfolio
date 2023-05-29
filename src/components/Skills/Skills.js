@@ -4,7 +4,7 @@ import './Skills.css'
 function Skills() {
   return (
     <>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
       <section className="skillsSection" id="displayIcons">
         <div id="codingLangs">
@@ -14,6 +14,8 @@ function Skills() {
           <i id="icon4" class="fab fa-node-js fa-3x"></i>
           <i id="icon5" class="fab fa-html5 fa-3x"></i>
           <i id="icon6" class="fab fa-css3-alt fa-3x"></i>
+          <i id="icon7" class="fab fa-github fa-3x"></i>
+
         </div>
 
 
