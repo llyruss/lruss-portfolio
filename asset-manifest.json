@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.75cee0be.css",
-    "main.js": "/react-portfolio/static/js/main.95d691bf.js",
+    "main.css": "/react-portfolio/static/css/main.7ab524c5.css",
+    "main.js": "/react-portfolio/static/js/main.7721fee6.js",
     "static/media/lily.jpeg": "/react-portfolio/static/media/lily.98dfcba29c7b3f698af4.jpeg",
     "static/media/supersearch.png": "/react-portfolio/static/media/supersearch.9c6ae2d55f6522777ac5.png",
     "static/media/whats-cookin.png": "/react-portfolio/static/media/whats-cookin.072e46174aeeec92de2e.png",
@@ -11,11 +11,11 @@
     "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.d5d96e8510aef2c75326.png",
     "static/media/yarn.jpeg": "/react-portfolio/static/media/yarn.7030f5ef2a3538f07796.jpeg",
     "index.html": "/react-portfolio/index.html",
-    "main.75cee0be.css.map": "/react-portfolio/static/css/main.75cee0be.css.map",
-    "main.95d691bf.js.map": "/react-portfolio/static/js/main.95d691bf.js.map"
+    "main.7ab524c5.css.map": "/react-portfolio/static/css/main.7ab524c5.css.map",
+    "main.7721fee6.js.map": "/react-portfolio/static/js/main.7721fee6.js.map"
   },
   "entrypoints": [
-    "static/css/main.75cee0be.css",
-    "static/js/main.95d691bf.js"
+    "static/css/main.7ab524c5.css",
+    "static/js/main.7721fee6.js"
   ]
 }
